@@ -1,0 +1,17 @@
+.flex-container {
+  background-color: grey;  
+  display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: flex-end;
+
+}
+.nav-item{
+display: flex;
+
+
+
+}
+body{
+    font-size: 18px;
+}
