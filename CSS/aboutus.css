@@ -1,0 +1,30 @@
+header{
+    background-color: grey;  
+  }
+  h1{
+  color: rgb(29, 28, 28);
+  justify-content: flex-start;
+  display: flex;
+  
+  }
+  .flex-container{
+    align-items: baseline;
+    
+  }
+  .container {
+    display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  
+  font-size: 25px;
+  
+  height: AUTO;
+  
+  }
+  
+  
+  main{
+      font-size: 18px;
+      color: blue;
+  }
